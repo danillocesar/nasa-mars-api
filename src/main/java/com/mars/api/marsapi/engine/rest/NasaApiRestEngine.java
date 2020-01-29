@@ -2,7 +2,6 @@ package com.mars.api.marsapi.engine.rest;
 
 import org.springframework.web.client.RestTemplate;
 
-import com.google.gson.JsonObject;
 import com.mars.api.marsapi.engine.rest.properties.NasaApiProperties;
 
 public class NasaApiRestEngine extends SimpleRestEngine{
